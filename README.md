@@ -1,6 +1,6 @@
 # 🔐 React Authentication App
 
-A modern authentication application built with React, featuring secure user login and registration flows. This project demonstrates form handling, validation, protected routes, and persistent user sessions using browser storage or tokens.
+A modern authentication application built with React and styled using Tailwind CSS. It features user registration, login, form validation, and clean responsive UI. This project demonstrates secure auth logic, reusable components, and integration of modern front-end tools to create a smooth, fast, and professional user experience.
 
 ---
 
